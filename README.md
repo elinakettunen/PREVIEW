@@ -1,6 +1,6 @@
-This repository contains the data analysis code for
+This repository contains the data analysis code for the following article:
 
-_Intake of animal-source foods varies widely across individuals and is linked to distinct dietary characteristics: A PREVIEW sub-study_
+_Kettunen, E., Freese, R., Hovinen, T. et al. Intake of animal-source foods varies widely across individuals and is linked to distinct dietary characteristics: a PREVIEW sub-study. BMC Nutr (2026). https://doi.org/10.1186/s40795-026-01482-2_
 
 `src/data`
 - `food_properties.csv` classifying food codes to food groups, and estimating their animal proportion
